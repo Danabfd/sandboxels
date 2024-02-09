@@ -1,4 +1,4 @@
-elements.mayo = {
+elements.test = {
     color: "#ffffff",
     behavior: behaviors.LIQUID,
     category: "liquids",
