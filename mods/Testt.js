@@ -1,8 +1,8 @@
 elements.sus = {
-    color: "#FFFFFF",
-    behavior: behaviors.SOLID,
-    category: "solids",
+    color: "#ffffff",
+    behavior: behaviors.LIQUID,
+    category: "liquids",
     viscosity: 100000,
-    state: "solid",
+    state: "liquid",
     density: 720,
 };
