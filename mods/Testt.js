@@ -1,5 +1,5 @@
 elements.test = {
-    color: "#ffffff",
+    color: "#FFFFFF",
     behavior: behaviors.LIQUID,
     category: "liquids",
     viscosity: 100000,
