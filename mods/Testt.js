@@ -1,8 +1,7 @@
 elements.sus = {
-    color: "#ffffff",
-    behavior: behaviors.LIQUID,
-    category: "liquids",
-    viscosity: 100000,
-    state: "liquid",
-    density: 720,
+  color: ["#F0F8FE"],
+  name: "Methamphetamine",
+  behavior: behaviors.POWDER,
+  category: "sus",
+  state: "solid",
 };
