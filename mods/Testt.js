@@ -1,8 +1,8 @@
-elements.test = {
+elements.sus = {
     color: "#FFFFFF",
-    behavior: behaviors.LIQUID,
-    category: "liquids",
+    behavior: behaviors.SOLID,
+    category: "solids",
     viscosity: 100000,
-    state: "liquid",
+    state: "solid",
     density: 720,
 };
